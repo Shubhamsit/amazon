@@ -9,6 +9,7 @@ header{
     justify-content: space-around;
     align-items: center;
     font-family: "Amazon Ember", Arial, sans-serif;
+    width:100vd;
 
 }
 #logo{
@@ -78,7 +79,7 @@ border-color:#cdcdcd;
     width: 55px;
     text-align: center;
     border-radius:0 4px 4px 0 ;
-    background-color:rgba(255, 140, 0, 0.943);
+    background-color:#febd69;
      color: black;
 }
 .account a{
